@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Ris.SpriteToolkit</RootNamespace>
+    <AssemblyName>ris-sprite-toolkit</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ris.SpriteToolkit\Ris.SpriteToolkit.csproj" />
+    <ProjectReference Include="..\Ris.SpriteToolkit\Ris.SpriteToolkit.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ris.SpriteToolkit.CLI", "Ris.SpriteToolkit.CLI\Ris.SpriteToolkit.CLI.csproj", "{E7C7ADFA-D616-F8E5-DFB2-981A26C9FF76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7C7ADFA-D616-F8E5-DFB2-981A26C9FF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C7ADFA-D616-F8E5-DFB2-981A26C9FF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C7ADFA-D616-F8E5-DFB2-981A26C9FF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C7ADFA-D616-F8E5-DFB2-981A26C9FF76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CE76D5A-2ECA-4672-839F-9CD25CA1D932}
+	EndGlobalSection
+EndGlobal
