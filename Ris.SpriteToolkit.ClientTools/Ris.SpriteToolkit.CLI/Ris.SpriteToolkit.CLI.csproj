@@ -8,7 +8,6 @@
     <AssemblyName>ris-sprite-toolkit</AssemblyName>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Ris.SpriteToolkit\Ris.SpriteToolkit.csproj" />
-    <ProjectReference Include="..\Ris.SpriteToolkit\Ris.SpriteToolkit.csproj" />
+    <PackageReference Include="Ris.SpriteToolkit" Version="1.0.0-preview.6" />
   </ItemGroup>
 </Project>
